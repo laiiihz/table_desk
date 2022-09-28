@@ -2,8 +2,9 @@
 
 a simple way to create merge cells table.
 
+![Pub Version](https://img.shields.io/pub/v/table_desk)
 
-> this package is WIP(work-in-progress).
+> this package is WIP(work-in-progress).🚧
 > 
 > PERFER NOT USE THIS PACKAGE IN YOUR PRODUCT.
 ## Features
@@ -40,3 +41,7 @@ TableDesk(
     ),
 )
 ```
+
+## WIP
+* [ ] some test.
+* [ ] set decoration in `TableDesk` widget.
