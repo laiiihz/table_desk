@@ -85,7 +85,7 @@ class _MyHomePageState extends State<MyHomePage> {
               side: const BorderSide(color: Colors.black26, width: 1),
             ),
             child: TableDeskRow(
-              border: const BorderSide(width: 0.5, color: Colors.black26),
+              border: const BorderSide(width: 1, color: Colors.black26),
               gaps: [
                 TableGap.width(100),
                 TableGap.weight(),
