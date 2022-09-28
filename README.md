@@ -1,5 +1,8 @@
 # table_desk 🛋
 
+a simple way to create merge cells table.
+
+
 > this package is WIP(work-in-progress).
 > 
 > PERFER NOT USE THIS PACKAGE IN YOUR PRODUCT.
