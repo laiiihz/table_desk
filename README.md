@@ -1,5 +1,8 @@
 # table_desk 🛋
 
+> this package is WIP(work-in-progress).
+> 
+> PERFER NOT USE THIS PACKAGE IN YOUR PRODUCT.
 ## Features
 
 * [x] auto resize table when content change  
